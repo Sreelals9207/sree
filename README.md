@@ -5,9 +5,6 @@ Here in this data dealing project i try to make some insights about the relation
 - [Project Description](#project-description)
 - [Dataset](#dataset)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Acknowledgments](#acknowledgments)
 
 ## Project Description
 
@@ -34,4 +31,27 @@ During data exploration, I discovered a significant relationship between sleep q
 Importantly, my dataset contained no null values, ensuring the integrity of the analysis.
 
 You can access the dataset and additional information on Kaggle through the provided link.
+
+## Getting Started
+
+To set up and run this project, follow these steps:
+
+### Prerequisites
+- **Python** (version 3.x)
+- **pip** (Python package installer)
+
+### Installation
+1. Clone the repository:  
+   `git clone https://github.com/Sreelals9207/sree.git`
+   
+2. Navigate to the project directory:  
+   `cd sree`
+   
+3. Install the required packages:  
+   `pip install -r requirements.txt`
+
+### Usage
+1. Load the dataset in your Python environment.
+2. Execute the main script to perform the regression analysis.
+3. View the results and visualizations to understand the relationship between caffeine intake and sleep quality.
 
